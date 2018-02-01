@@ -9,7 +9,6 @@ import java.util.concurrent.ThreadLocalRandom;
 
 /*
  * Name: Eric J. Hachuel
- * USC loginid: hachuelb
  * CSCI 561 - Artificial Intelligence, Fall 2017 (Homework 1 - Search)
  * Due: September 20th, 2017
  */
